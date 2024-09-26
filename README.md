@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-%23323330.svg?style=for-the-badge&logo=firebase&logoColor=%DD2C00)
+  ![Firebase](https://img.shields.io/badge/Firebase-%23323330.svg?style=for-the-badge&logo=firebase&logoColor=%DD2C00FF)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
