@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=20ACDC&width=640&height=60&lines=Hello+there%F0%9F%91%8B%2C+This+is+Makhoul!%F0%9F%91%BD)](https://git.io/typing-svg)
-## A passionate and dedicated professional with a strong work ethic and commitment to growth.
+## A passionate and dedicated Full-Stack Developer committed to growth.
 
 <!--
 **makhoulshbeeb/makhoulshbeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
