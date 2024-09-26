@@ -20,8 +20,8 @@ Here are some ideas to get you started:
  <img align="left" width="38%" alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makhoulshbeeb&layout=compact&theme=tokyonight" />
  <img align="left" width="57%"  alt="main-stats" src="https://github-readme-stats.vercel.app/api?username=makhoulshbeeb&hide=stars,issues&show_icons=true&show=prs_merged_percentage&include_all_commits=true&theme=tokyonight" />
 </div>
-&nbsp;
-## 
+&nbsp;     
+
 ## Languages and Tools:
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=23F7DF1E)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
